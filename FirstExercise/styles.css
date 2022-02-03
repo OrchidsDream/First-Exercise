@@ -1,0 +1,38 @@
+body {
+    background-color: #ED7678;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h4 {
+     color: #7E7E7E;
+     
+}
+
+section {
+    background-color: #ECEDEC;
+    color: #B7B7B7;
+    width: 850px;
+    height: 500px;
+    margin: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;   
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    display: none;
+}
+
+.button {
+    background-color:#7BD9D5;
+    color:#F0F0F0 ;
+}
+
+
